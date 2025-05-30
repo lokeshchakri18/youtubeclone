@@ -1,0 +1,99 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0px;
+  background-color: white;
+  
+  
+}
+.burger{
+  width:26px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.middle-section{
+   flex: 1;
+  display: flex;
+  margin-left: 70px;
+  margin-right: 35px;
+  max-width: 500px;
+  align-items: center;
+flex-direction: row;
+  cursor: pointer;
+
+}
+.search-icon{
+  margin-left: -1px;
+  border-color:rgb(225, 216, 216);
+  border-width: 1px;
+  height: 39px;}
+  
+  .mic-button{
+    margin-left: 12px;
+    border-radius: 50%;
+    border: none;
+    height: 40px;
+    align-items: center;
+  }
+.one{
+
+  height: 23px;
+  
+}
+.two{
+  width:30px;
+  height: 30px;
+  
+  border-radius: 15px;
+}
+.right-section{
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+    cursor: pointer;
+}
+.left-section{
+  width:200px;
+  display: flex;
+  margin-right: 60px;
+  align-items: center;
+  cursor: pointer;
+}
+.logo{
+width:85px;
+
+}
+.search{
+  height: 35px;
+  border: 1px solid;
+  border-radius: 0px;
+  flex: 1;
+  border-color: rgb(182, 173, 173);
+  box-shadow: inset 1px 2px 3px rgba(0,0,0,0.05);
+}
+.upload{
+  width:25px
+}
+.apps{
+  width:25px
+}
+.bell{
+  width:25px
+}
+.profile-pic{
+  width:40px;
+height: 40px;
+  
+}
+.time{
+  position: fixed;
+  background-color: black;
+  color: white;
+  ;
+}

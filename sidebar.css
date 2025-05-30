@@ -1,0 +1,80 @@
+.sidebar{
+  display: flex;
+  flex-direction: column;
+  background-color: blueviolet;
+  position: fixed;
+  top: 64px;
+  bottom: 0px;
+  width: 75px;
+  background-color: white;
+  
+ 
+  
+
+}
+.first{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+
+}
+.first:hover{
+  background-color: rgb(244, 241, 241);
+}
+.second{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  margin-top: 25px;
+}
+.second:hover{
+  background-color: rgb(244, 241, 241);}
+.third{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+    margin-top: 25px;
+}
+.third:hover{
+  background-color: rgb(244, 241, 241);}
+.four{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+    margin-top: 25px;
+}
+.four:hover{
+  background-color: rgb(244, 241, 241);}
+.five{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+    margin-top: 25px;
+}
+.five:hover{
+  background-color: rgb(244, 241, 241);}
+.six{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+    margin-top: 25px;
+}
+.six:hover{
+  background-color: rgb(244, 241, 241);}
+.home{
+  width: 26px;
+  height: 24px;
+}
+.homee{
+ font-size: 11px;
+ margin-top: 7px;
+ font-family: arial;
+}
+
+  
